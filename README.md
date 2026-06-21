@@ -1,2 +1,14 @@
 # migu-fast-notes
-HTML page archive and documentation
+
+页面文件整理目录
+
+本仓库作为页面发布目录，保存任务生成的 HTML 文件。
+
+## 文件管理
+
+- HTML 文件由发布流程生成
+- README 用于保留基础说明
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
